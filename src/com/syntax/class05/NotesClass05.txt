@@ -1,0 +1,11 @@
+Class Manual testing 
+
+Recap ---
+Why do we need to test 
+To assure the quality of the software, we need to tst it 
+
+STLC-
+
+requirement analysis - we analyze the requirements based on the smart criteria 
+test planning - test plan - Test/QA Lead/manager 
+test case development - 

@@ -1,0 +1,45 @@
+Java Class 5
+
+If statement 
+
+SYNTAX
+
+if (boolean condition) {
+
+}
+
+boolean weekend =true;
+if (weekend) {
+
+System.out.println("It is Java Class");
+}
+
+String day ="Saturday";
+
+if (day.equals("Saturday')) {
+
+System.out.println("Its Java Class);
+
+int date =3;
+
+if(day==3) {
+System.out.println("Today is third");
+}
+=================================================
+SYNTAX
+
+if (boolean condition) {
+         code A;
+} else {
+         code B;
+}
+==================================================
+
+if (boolean condition) {
+         code A;
+} else if ((boolean condition)){
+         code B;
+} else if ((boolean condition)){
+         code C;
+         
+

@@ -1,0 +1,18 @@
+/*What is type casting?
+		 * it is important to know so we can use the code that is written by someone else 
+		 * so when we work in teams we are able to merge codes 
+		 * what is the syntax for type casting?
+		 * when we are converting something smaller to larger we do not need to do anything 
+		 * it happens automatically 
+		 * 
+		 * int box = 1234;
+		 * long box2 = box; //called = whitenig, implicit, automatic 
+		 * 
+		 * however when we convert a larger data type to smaller data type 
+		 * then this is how we do it:
+		 * long box = 124545;
+		 * 
+		 * int box2=(int) box; called narrowing, explicit or manual coversion 
+		 * 
+		 */
+		

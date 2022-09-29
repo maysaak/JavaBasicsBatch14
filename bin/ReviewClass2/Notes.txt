@@ -1,0 +1,39 @@
+Type casting // Converting one data type to another type 
+1) Explicit/narrowng/manual
+when we go from bigger to smaller 
+ 2) Implicit/widening/Automatic 
+when we go from a smaller to larger data type 
+
+1) byte (8) 2) short (16) char (16) 3) int(32) 4) long (64) 5) float (32)
+5) float(32) 
+
+Explicit/narrow/Manual
+int box = 1000;
+byte box2=(byte) box;
+
+short box1=250;
+int box2=box1;
+======================================================================
+
+Is statements:
+  if else conditions allow us to write programs that can take decisions based on
+   some condition and provided data.
+   if condition
+   if else condition
+   if else if condition
+   nested if else condition
+   
+why we need to execute if else condition?
+  when we are solving real life problems 
+  like testing a web site our program needs to make a lot of decsions
+  
+What is the syntax of if else condition 
+if condition 
+
+boolean rich=true; //ifDemo project
+    if(rich) {
+    //syntax(condition) {
+    System.out.println("lets buy house");
+    
+    }
+  

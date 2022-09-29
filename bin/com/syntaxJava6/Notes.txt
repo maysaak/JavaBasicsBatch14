@@ -1,0 +1,32 @@
+Java Class 6 
+
+Logical And && - all conditions must be true 
+for logical AND return true 
+
+Logical OR ||
+
+
+
+
+
+
+
+
+
+String and other non primitive=null;
+double d=10;
+System.out.println(d);
+
+switch case = statement executes one statement from multiple values/conditions.
+
+Syntax 
+
+switch (variable) {
+
+case value1:
+      code A;
+      break;
+case value2:
+     code B;
+     break;
+      
